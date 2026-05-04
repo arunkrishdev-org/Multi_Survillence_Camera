@@ -1,0 +1,10 @@
+{
+  "name": "UrbanTrack-DL Framework",
+  "description": "A Deep Learning-Based Multi-Camera Surveillance Framework for Vehicle Re-Identification and Tracking in Urban Environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Deep Learning Re-ID",
+    "Multi-Camera Tracking",
+    "Computer Vision Pipeline"
+  ]
+}

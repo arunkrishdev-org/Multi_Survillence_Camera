@@ -1,0 +1,10 @@
+opencv-python
+streamlit
+ultralytics
+easyocr
+torch
+torchvision
+filterpy
+scikit-learn
+Pillow
+numpy
